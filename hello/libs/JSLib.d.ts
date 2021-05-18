@@ -1,0 +1,1 @@
+declare function sendWord(msg: string): string;
